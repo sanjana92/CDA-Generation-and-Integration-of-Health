@@ -1,0 +1,14 @@
+SMAP
+doc_jsp.java
+JSP
+*S JSP
+*F
++ 0 doc.jsp
+doc.jsp
+*L
+5,29:44
+34:73,2
+35,43:75
+78:118,2
+79,47:120
+*E
